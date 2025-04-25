@@ -1,5 +1,5 @@
 # Rock Paper Scissors 🎮
-https://bunyaminozturk-landing-page.netlify.app/
+https://bunyaminozturk-rock-paper-scissors.netlify.app
 
 This is a simple Rock Paper Scissors game made with JavaScript.
 
