@@ -85,9 +85,9 @@ function playRound(computerChoice, humanChoice){
 
 let i = 1;
 function playGame(){
-    for(; i<=10; i++){
+    for(; i<=5; i++){
         playRound();
-        console.log(i + ". round ended: ");
+        //console.log(i + ". round ended: ");
         
     }
 }
