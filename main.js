@@ -2,7 +2,7 @@ function getComputerChoice(){
     let pcList = ["rock", "paper", "scissors"];
     let randomIndex = Math.floor(Math.random() * pcList.length);
     let pcChoice = pcList[randomIndex]
-    console.log("pc choice: " + pcChoice);
+    //console.log("pc choice: " + pcChoice);
     return pcChoice;
 
 }
@@ -86,8 +86,9 @@ function playRound(computerChoice, humanChoice){
 let i = 1;
 function playGame(){
     for(; i<=10; i++){
-        console.log(i + ". round: ");
         playRound();
+        console.log(i + ". round ended: ");
+        
     }
 }
 playGame();
