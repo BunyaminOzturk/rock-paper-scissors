@@ -1,6 +1,10 @@
 # Rock Paper Scissors 🎮
 https://bunyaminozturk-rock-paper-scissors.netlify.app
 
+## v2
+https://whimsical-moonbeam-c61aa7.netlify.app
+<img src="screen.jpg" alt="github" width="400">
+
 This is a simple Rock Paper Scissors game made with JavaScript.
 
 The game is played in the browser console. You play 5 rounds against the computer, and the winner is announced at the end.
