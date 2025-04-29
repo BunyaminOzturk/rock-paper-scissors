@@ -1,5 +1,5 @@
 # Rock Paper Scissors 🎮
-https://bunyaminozturk-rock-paper-scissors.netlify.app
+https://bunyaminozturk-rock-paper-scissors.netlify.app  (v1)
 
 ## v2
 https://whimsical-moonbeam-c61aa7.netlify.app
@@ -39,4 +39,4 @@ This project is part of the JavaScript Foundations section from [The Odin Projec
 ## Notes
 
 This is a practice project to help me understand how JavaScript works.  
-Later on, I might turn this into a version with buttons and a real web interface.
+Later on, I might turn this into a version with buttons and a real web interface. (v2)
