@@ -3,6 +3,7 @@ https://bunyaminozturk-rock-paper-scissors.netlify.app
 
 ## v2
 https://whimsical-moonbeam-c61aa7.netlify.app
+### --------
 <img src="screen.jpg" alt="github" width="400">
 
 This is a simple Rock Paper Scissors game made with JavaScript.
